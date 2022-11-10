@@ -4,7 +4,7 @@
 ![](https://visitcount.itsvg.in/api?id=hasantarhan&icon=0&color=0)
 ### 💫 About Me:
 - 👋 Hi, I’m Hasan
-- 🌱 I’m currently game development wíth unity
+- 🌱 i'm currently developing games with unity
 
 ### 💻 Tech Stack:
 - ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for&logo=c-sharp&logoColor=white)
