@@ -7,5 +7,5 @@
 - 🌱 Unity Game Developer
 
 ### 💻 Tech Stack:
-- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for&logo=c-sharp&logoColor=white)
+- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)
 - ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white)
